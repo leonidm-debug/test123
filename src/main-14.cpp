@@ -5,6 +5,7 @@
 
 //commend was made for test of commits in Gihub
 //
+// второй коммит
 
 int numberOfRecord = 0;
 #define maxOfRecords 10
