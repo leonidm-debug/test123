@@ -3,6 +3,8 @@
 #include <limits.h>
 
 
+//commend was made for test of commits in Gihub
+//
 
 int numberOfRecord = 0;
 #define maxOfRecords 10
