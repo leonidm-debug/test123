@@ -7,6 +7,7 @@
 //
 // второй коммит
 // третий коммит
+// четвертий комміт
 
 int numberOfRecord = 0;
 #define maxOfRecords 10
