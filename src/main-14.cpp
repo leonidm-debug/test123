@@ -10,6 +10,7 @@
 // четвертий комміт
 // Fifth commit
 // Sixth commit
+// Seventh commit
 
 int numberOfRecord = 0;
 #define maxOfRecords 10
